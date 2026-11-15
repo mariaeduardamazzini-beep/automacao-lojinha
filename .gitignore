@@ -1,0 +1,13 @@
+.venv/
+
+.env
+
+dados/*
+!dados/produtos.example.json
+!dados/fotos/
+dados/fotos/*
+!dados/fotos/.gitkeep
+
+__pycache__/
+.pytest_cache/
+.vscode/
